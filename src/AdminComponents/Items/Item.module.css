@@ -1,0 +1,11 @@
+.FEdit{
+    display: flex;
+    font-size: 20px;
+  }
+  
+  .FTrash{
+    display: flex;
+    font-size: 20px;
+    color: #000;
+     
+  }

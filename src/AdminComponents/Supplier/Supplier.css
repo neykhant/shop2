@@ -1,0 +1,52 @@
+.supplier {
+  margin-top: 5px;
+  margin-left: 255px;
+  display: flex;
+  height: 85vh;
+  font-size: 4rem;
+  background-color: #f4f5f8;
+}
+
+.MuiButton-label {
+  display: flex !important;
+  /* justify-content: flex-start !important;
+  font-size: 25px; */
+}
+
+.MuiButton-root {
+  padding: 6px 5px !important;
+}
+.supplier_form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 100%;
+}
+
+.supplier_container {
+  margin: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.text_field {
+  /* width: 50rem !important; */
+}
+
+.supplier_button {
+  margin-right: 5px !important;
+  background: #9a4d3a !important;
+  color: #fff !important;
+  width: 12%;
+}
+
+.supplier_button_save {
+  margin-right: 5px !important;
+  background: #9a4d3a !important;
+  color: #fff !important;
+}
+.supplier_container_save {
+  display: flex;
+  justify-content: end;
+  /* margin-left: 15%; */
+}
